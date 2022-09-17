@@ -3,7 +3,7 @@ from openWeather_website import*
 import json
 
 # Defining the function for generating weather report of location according to user wish .
-# we used visualcross_website for web scraping
+# we used visualcross_website for web scraping the data
 def reportFormate3():
     try:
         location = input("Enter Location: ")
