@@ -1,3 +1,4 @@
+# Output will be displayed in word document
 from weatherbit_website import*
 from openWeather_website import*
 #defining the function to display the output in word document
