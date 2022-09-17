@@ -1,3 +1,4 @@
+# output for this module will display on only terminal
 import requests
 # Defining the function for generating weather report of location according to user wish .
 #Here we used wttr url to web scrap
