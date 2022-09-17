@@ -6,7 +6,7 @@ api_key = "2e4bfb12170048639372b5c0470e6701"
 
 
 # Defining the function for generating weather report of location according to user wish .
-# we used weather bit website for web scraping
+# we used weather bit website for web scraping the data
 def reportFormate2():
     try:
         location = input('Enter location: ')
