@@ -2,7 +2,7 @@ from openWeather_website import* # imports all from the generating_weatherReport
 from WeatherBit_website import*
 from visualcross_website import *
 from wttr_website import*
-from output import display# importing print function from output module
+from output import display# importing display function from output module
 
 #Iterating and calling the main function which was imported from generating_weatherReport module
 choice = True
